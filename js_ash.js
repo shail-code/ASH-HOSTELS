@@ -1,4 +1,4 @@
-/show hidden element
+//show hidden element
 
 $(function(){
     $("#butn").click(function(){
